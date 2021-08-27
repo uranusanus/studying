@@ -1,5 +1,5 @@
 <details>
-<summary>кто</summary>
+<summary style="color:red">кто</summary>
 
-* <span style="list-style-type:none">именно</span>
+* именно
 </details>
