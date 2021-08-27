@@ -1,4 +1,4 @@
-# <span style="color: cadetbue">Це звалище всякого коду</span>
+<span style="color: blue">Це звалище всякого коду</span>
 
 <details>
     <summary>кто</summary>
