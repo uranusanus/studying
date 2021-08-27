@@ -1,4 +1,4 @@
 <details>
-    <summary><b>кто<b></summary>
+    <summary>кто</summary>
     именно
 </details>
