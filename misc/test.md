@@ -87,9 +87,6 @@ ___
 
 imenno
 
-- kto
-- a
-
 </details>
 
 
