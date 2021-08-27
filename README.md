@@ -1,8 +1,4 @@
-<script>
-    console.log("kto")
-</script>
 <details>
-    <summary>кто</summary>
-
+    <summary>*кто*</summary>
     именно
 </details>
