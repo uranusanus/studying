@@ -1,4 +1,11 @@
-I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
+<style
+  type="text/css">
+h1 {color:red;}
+
+p {color:blue;}
+</style>
+
+# kto
 
 <details>
     <summary>кто</summary>
