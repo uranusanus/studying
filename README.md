@@ -5,7 +5,7 @@ h1 {color:red;}
 p {color:blue;}
 </style>
 
-# kto
+<h1>kto<h1>
 
 <details>
     <summary>кто</summary>
