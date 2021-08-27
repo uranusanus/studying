@@ -1,5 +1,13 @@
 <details>
-<summary style="color:red">кто</summary>
 
-* именно
+**<summary>кто</summary>**
+
+| что | зачем |
+| :---: | :------: |
+| да | ага |
+
+> *~именно~*
 </details>
+
+* [ ] галка
+* [ ] птица
